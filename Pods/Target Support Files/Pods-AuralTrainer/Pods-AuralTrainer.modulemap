@@ -1,0 +1,6 @@
+framework module Pods_AuralTrainer {
+  umbrella header "Pods-AuralTrainer-umbrella.h"
+
+  export *
+  module * { export * }
+}
